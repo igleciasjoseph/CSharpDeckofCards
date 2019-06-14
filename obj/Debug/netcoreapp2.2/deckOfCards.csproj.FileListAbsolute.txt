@@ -1,0 +1,11 @@
+/Users/kratos/Desktop/C#/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.deps.json
+/Users/kratos/Desktop/C#/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.runtimeconfig.json
+/Users/kratos/Desktop/C#/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.runtimeconfig.dev.json
+/Users/kratos/Desktop/C#/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.dll
+/Users/kratos/Desktop/C#/deckOfCards/bin/Debug/netcoreapp2.2/deckOfCards.pdb
+/Users/kratos/Desktop/C#/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.csprojAssemblyReference.cache
+/Users/kratos/Desktop/C#/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.csproj.CoreCompileInputs.cache
+/Users/kratos/Desktop/C#/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.AssemblyInfoInputs.cache
+/Users/kratos/Desktop/C#/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.AssemblyInfo.cs
+/Users/kratos/Desktop/C#/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.dll
+/Users/kratos/Desktop/C#/deckOfCards/obj/Debug/netcoreapp2.2/deckOfCards.pdb
